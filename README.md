@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Fakhri Zain</h1>
 
 ###
-
-<p align="left">🔭 I’m currently an intern Android Developer, deeply interested in Mobile Development.<br>🌱 I’m currently learning both Native and Hybrid Mobile Development.</p>
+I am an **Android Developer Intern** who is interested in technology and innovation in IT.
+<p align="left">🔭 Currently learning and exploring Android development.<br>🌱 Always eager to learn new technologies and enhance my skills.</p>
 
 ###
 
