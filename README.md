@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Fakhri Zain</h1>
+<h1 align="center">Hi 👋, I'm Fakhri Zain</h1>
 
 ###
 I am an **Android Developer** who is interested in technology and innovation in IT.
-<p align="left">🔭 Currently learning and exploring Android development.<br>🌱 Always eager to learn new technologies and enhance my skills.</p>
+<p align="left">🔭 Currently learning and exploring Mobile Development, Front End Development, and Multiplatform Development.<br>🌱 Always eager to learn new technologies and enhance my skills.</p>
 
 ###
 
